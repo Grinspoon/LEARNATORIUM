@@ -1,4 +1,4 @@
 # LEARNATORIUM
 
-#### Project KONGOR Knowledgebase
+#### Project KONGOR Public Knowledgebase
 #### Part Of Project KONGOR
